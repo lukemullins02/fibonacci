@@ -27,5 +27,5 @@ function fibsRec(n) {
   }
 }
 
-console.log(fibsRec(8));
-console.log(fibs(8));
+console.log(fibsRec(32));
+console.log(fibs(32));
